@@ -1,0 +1,500 @@
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+. makecellnext.sh
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+. makecellnext.sh
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+. makecellnext.sh
+. makecellnext.sh
+. makecellnext.sh
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+ls
+cat 1234/*.sh
+ls
+ls img12packfigure/newxtermstart/genericfourth
+ls
+. makecellnext.sh
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+ls
+cd 56789/
+ls
+cat *sh | more
+..
+. makecellnext.sh
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+str
+. makecellnext.sh
+str
+ls
+s
+cd ovariables/
+ls
+ls 55/
+sudo rm -r 55/
+cd img12packfigure
+ls
+cd newxtermstart
+ls
+cd genericfourthorig/
+ls
+cat fourthcellalt.sh 
+cat startcell4alt.sh 
+mkdir rewrite1
+cd rewrite1/
+emacs makecellnext.sh
+emacs -nw makecellnext.sh
+    read -e 
+cd ovariables/
+ls
+alsamixer 
+ls */*ogg
+cd msui
+ffplay -nodisp Deltron\ 3030-Mastermind-yf9OAFML_Eg.ogg 
+cd
+sh reverttoroom.sh 
+cd msui
+ffplay -nodisp Deltron\ 3030-Mastermind-yf9OAFML_Eg.ogg 
+cd
+sh reverttoroom.sh 
+alsamixer 
+cd msui
+ffplay -nodisp Deltron\ 3030-Mastermind-yf9OAFML_Eg.ogg 
+ffplay -nodisp Deltron\ 3030-Mastermind-yf9OAFML_Eg.ogg 
+ffplay -autoexit -nodisp Deltron\ 3030-Mastermind-yf9OAFML_Eg.ogg 
+ffplay -autoexit -nodisp Deltron\ 3030-Mastermind-yf9OAFML_Eg.ogg 
+ffplay -autoexit -nodisp Deltron\ 3030-Mastermind-yf9OAFML_Eg.ogg 
+ffplay -loop 3 -autoexit -nodisp Deltron\ 3030-Mastermind-yf9OAFML_Eg.ogg 
+ffplay -loop 3 -autoexit -nodisp Deltron\ 3030-Mastermind-yf9OAFML_Eg.ogg 
+synergy
+alsamixer 
+cd ovariables
+ls
+sudo shutdown -h now
+emacs -nw .bashrc
+cd ovariables
+ls
+emacs -nw makecellnext.sh
+youtube-dl -F https://odysee.com/@SpiritScience:1/happy-new-year-2021-weaving-a-new:2
+firefox
+sudo shutdown -h now
+links google.com
+cb
+66.3.225.104.ptr.anycast.
+iptables -A INPUT -s 185.30.166.38 -j DROP
+sudo iptables -A INPUT -s 185.30.166.38 -j DROP
+sudo iptables -A INPUT -s 185.30.166.38 -j ACCEPT
+links google.com
+df -h
+nload
+mkdir network
+mv nload* vnstat* network/
+touch network/iftop
+touch network iptables
+mv iptables network/
+bmon
+ls -tr
+mv nethogs* confuse* bmon* darkstat* network/
+iptraf
+sudo iptraf
+bcm
+cbm
+ls network/
+sar 
+ls /var/log/packages
+/var/log/packages
+ls lua*
+ls /var/log/packages/qt5*
+links google.com
+links slackbuilds.org
+df -h
+ls /var/log/packages/*www*
+display File\:Baden_bei_Wien_-_Kurpark_-_Stadtpark_-_View_WSW_into_the_Beethoven_Temple_1925-27_by_Wilhelm_Luksch_-_Ceiling_Fresco_\'Prometheus\'_Donation_of_Fire_to_Mankind\'_-_On_the_Right-_Beethoven\'s_Death_Mask.jpg 
+mv File\:Baden_bei_Wien_-_Kurpark_-_Stadtpark_-_View_WSW_into_the_Beethoven_Temple_1925-27_by_Wilhelm_Luksch_-_Ceiling_Fresco_\'Prometheus\'_Donation_of_Fire_to_Mankind\'_-_On_the_Right-_Beethoven\'s_Death_Mask.jpg deathmaskbeethovan.jpg
+cd /var/log/packages
+ls *message*
+ls *perl*
+cd
+ls *perl*
+ls *perl*
+ls *perl*
+ls -tr
+mkdir monitorix
+mv *.tar.gz monitorix
+ls -tr
+mv netperf-2.6.0.tar.bz2 monitorix/netperf.tar.gz network/
+ls /var/log/packages/*ython3*
+ls /var/log/packages/*ares*
+iftop
+sudo iftop
+sudo iftop
+sudo iftop
+touch network/iptraf
+cat .bash_history | grep SID
+cat notenotenote.text | grep SID
+cat notenotenotelaptop.text | grep SID
+sidplayfp -h
+sidplayfp msui/SID/C64Music/GAMES/G-L/Game_of_Life_BASIC.sid 
+alsamixer 
+scr
+cb
+links 
+w3m -v
+lynx
+cb
+cb
+cd scriptdesk/
+cd
+sh wgetfehimg.sh https://i.kym-cdn.com/photos/images/original/001/077/998/634.jpg
+sh wgetfehimg.sh https://i.kym-cdn.com/photos/images/original/001/077/998/634.jpg
+sh wgetfehimg.sh https://i.kym-cdn.com/photos/images/original/001/077/998/634.jpg
+links google.com
+youtube-dl "ytsearch:half life black" -o - | ffplay -
+youtube-dl "ytsearch:bad company 2" -o - | ffplay -
+links google.com
+links google.com
+firefox
+links google.com
+alsamixer 
+links google.com
+alsamixer 
+youtube-dl "ytsearch:tire break bead without machine" -o - | ffplay -
+youtube-dl "ytsearch:tire break bead machine" -o - | ffplay -
+youtube-dl "ytsearch:break bead car wheel" -o - | ffplay -
+youtube-dl "ytsearch"tire bead car wheel" -o - | ffplay -
+youtube-dl "ytsearch:tire bead car wheel" -o - | ffplay -
+youtube-dl "ytsearch:car bead diy" -o - | ffplay -
+youtube-dl "ytsearch:car wheel tire bead seal" -o - | ffplay -
+youtube-dl "ytsearch:car wheel tire " -o - | ffplay -
+youtube-dl "ytsearch:car" -o - | ffplay -
+sudo youtube-dl -U
+youtube-dl "ytsearch:tire break bead without machine" -o - | ffplay -
+firefox
+links https://www.sciencedaily.com/releases/2020/11/201130150356.htm
+alsamixer 
+cat notenotenotelaptop.text | grep opengl
+cat notenotenotelaptop.text | grep d3d
+cat notenotenotelaptop.text | grep stackexchange
+cb
+cb
+lp https://www.ebay.com/itm/AMD-Radeon-HD-6850-Great-condition-original-packaging/203237520990?hash=item2f51e6765e:g:T0oAAOSwcddf8k8i
+l https://swling.com/blog/tag/radio-marti/
+sc
+scr
+ls
+scr
+xb
+cb
+vi .newsbeuter/urls
+newsbeuter
+firefox  https://videocardz.com/press-release/lg-display-introduces-worlds-first-48-inch-bendable-cinematic-sound-oled-display
+scr
+scr
+l http://cyberneticzoo.com/mazesolvers/1952-%E2%80%93-theseus-maze-solving-mouse-%E2%80%93-claude-shannon-american/
+firefox en.wikipedia.org/wiki/Shannon%E2%80%93Hartley_theorem
+firefox 
+youtube-dl "ytsearch:yoga fitness workout naked" -o - | ffplay -
+youtube-dl "ytsearch:ceres anime episode 13" -o - | ffplay -
+firefox ebay.com
+lsam
+las
+alsamixer 
+pavucontrol
+vncviewer 192.168.1.16
+sh stream.sh https://youtu.be/iWxKQhOOPX4
+lsam
+alsamixer 
+cb
+fortune
+fortune
+fortune
+links google.com
+links google.com
+youtube-dl "ytsearch:the voice of hope shortwave recording" -o - | ffplay -
+youtube-dl "ytsearch:voice of khmer mchas shortwave recording" -o - | ffplay -
+l  WEbBc6EyUs0: shortwave youtuber
+sh brightnessscript.sh 2
+sh brightnessscript.sh 1
+ls *play*
+ls */*press*
+cd button1/
+ls
+cat echocat.sh 
+cat pressplay.sh
+cd irclogs/Freenode/
+ls
+tail -f \##c.log 
+links google.com
+links google.com
+tbclock
+find . -name tbclock
+cd tbclock-1.10/
+ls
+./tbclock 
+./tbclock -e
+./tbclock -e
+alsamixer 
+cb
+alsamixer 
+synergy
+links slackbuilds.org
+firefox
+l emacs default was a great boost. now im more familiar on using emacs with my normal workflow. buffers, navigation, joining lines, tables, 
+l diSRwdtlGA4: break bead car autos
+links google.com
+ls network/
+iftop
+sudo iftop
+sudo iptraf
+youtube-dl "ytsearch:car wheel tire bead seal" -o - | ffplay -
+youtube-dl "ytsearch:wheel bead diy" -o - | ffplay -
+youtube-dl "ytsearch:cat girls game big tits" -o - | ffplay -
+l GihjRWjmMuw: hentai
+youtube-dl "ytsearch:car tire maintenance" -o - | ffplay -
+youtube-dl "ytsearch:automobile maintenance" -o - | ffplay -
+youtube-dl "ytsearch:auto wheels maintenance" -o - | ffplay -
+youtube-dl "ytsearch:auto wheels beads seal" -o - | ffplay -
+youtube-dl "ytsearch:auto wheels bead seal" -o - | ffplay -
+youtube-dl "ytsearch:auto wheels break bead" -o - | ffplay -
+youtube-dl "ytsearch:car wheels break bead" -o - | ffplay -
+youtube-dl "ytsearch:auto wheels diy slow leak" -o - | ffplay -
+l youtube-dl "ytsearch:auto wheels diy slow leak" -o - | ffplay -
+l youtube-dl "ytsearch:intel alder lake" -o - | ffplay -
+youtube-dl "ytsearch:intel alder lake" -o - | ffplay -
+cd c
+mkdir cprogram
+cprogram
+emacs -nw
+gcc -c newfile1.c newfile
+gcc newfile -c newfile1.c 
+cd
+ls */*.c
+cd gatech/
+ls
+cat gcc.sh 
+cd
+cd cprogram/
+gcc -g newfile newfile1.c 
+gcc -g -o newfile newfile1.c 
+ls
+./newfile 
+./newfile 
+sh brightnessscript.sh 3
+links google.com
+lsam
+alsamixer 
+firefox https://t.co/IQoJbKDkiV
+tmux attach
+date
+ip a
+cb
+firefox
+cd irclogs/Freenode/
+cat \#panfrost.log | grep _b
+cat \#panfrost.log | grep reebsd
+cat \#panfrost.log | grep br
+cat \#panfrost.log | grep br>
+cat \#panfrost.log | grep br\>
+firefox http://svn.freebsd.org/base/head/sys/arm64/arm64/pmap.c
+youtube-dl "ytsearch:powerball winners who have lost the money" -o - | ffplay -
+youtube-dl "ytsearch:atmosphere the day before halloween" -o - | ffplay -
+youtube-dl "ytsearch:eminem 2020 music video" -o - | ffplay -
+youtube-dl "ytsearch:eminem 2020 music video gnat" -o - | ffplay -
+youtube-dl "ytsearch:tecnnology today 2021" -o - | ffplay -
+youtube-dl "ytsearch:tecnnology 2021" -o - | ffplay -
+alsamixer 
+cb
+date
+ls
+cd msui/
+ls
+du -csh SID
+cd SID
+ls
+ls xa
+du -csh xa
+du -csh C64Music/
+cd C64Music/
+ls
+du -csh GAMES/
+ls GAMES/
+ls MUSICIANS/
+cd MUSICIANS/
+cd G
+ls
+cd Gan
+cd Ganja/
+ls
+sidplayfp Broken_Wings.sid 
+centos is end of ife
+youtube-dl "ytsearch:ceres episode 15" -o - | ffplay -
+youtube-dl "ytsearch:ceres episode 14" -o - | ffplay -
+youtube-dl "ytsearch:ceres ep 14" -o - | ffplay -
+youtube-dl "ytsearch:ceres ep 13" -o - | ffplay -
+youtube-dl "ytsearch:ceres anime episode 15" -o - | ffplay -
+youtube-dl "ytsearch:ceres anime episode 15" -o - | ffplay -
+youtube-dl "ytsearch:ceres celestial legend anime episode 15" -o - | ffplay -
+youtube-dl "ytsearch:ceres celestial legend anime episode 11" -o - | ffplay -
+youtube-dl "ytsearch:celestial legend anime episode 11" -o - | ffplay -
+youtube-dl "ytsearch:celestial legend anime episode 14" -o - | ffplay -
+youtube-dl "ytsearch:somalia ep 5" -o - | ffplay -
+youtube-dl "ytsearch:battle-programmer-shirase" -o - | ffplay -
+youtube-dl "ytsearch:battle programmer" -o - | ffplay -
+youtube-dl "ytsearch:space launch" -o - | ffplay -
+youtube-dl "ytsearch:trivia jeapordy" -o - | ffplay -
+battle-programmer-shirasebattle-programmer-shirase
+ceres-celestial-legend episode 5
+atmosphere the day before halloween
+atmosphere day before halloween
+gnat eminem
+999999school boy q habits and contradictions
+999999school boy q habits and contradictions album
+habits and contradictions mixtape stream
+magnifying transmitter
+eminem gnat
+eminem 2020 music video
+lyrical lemonade eminem 2021
+rising storm 2 vietnam
+rising storm 2 vietnam
+life of a pigeon
+pigeon birds of amazement
+fcameron prince tesla
